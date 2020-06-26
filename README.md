@@ -1,2 +1,5 @@
 # Asako-Studio
-浅子文化工作室（实验室）小程序主站，一个致力于视觉影像与工程研究的实验室、工作室
+浅子文化小程序主站，一个致力于视觉影像与工程研究的实验室、工作室
+| Miniprogram  | Home | Creative | Works | About |
+| - | - | - | - | - |
+| <img src="http://imglf5.nosdn0.126.net/img/eCsxeXUwR1dBeGU1UlRYV2liZmI2NXQ3WmpvbmxORk85Uk1oVFppSDFJcHlmYWlLUVd5ajdnPT0.jpg?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg" width="180" /> | <img src="http://imglf5.nosdn0.126.net/img/eCsxeXUwR1dBeGVpcXBRdVlkRko5cUJtQnRIbXFaaDZLV3dNY3FENGtyaWtmTDFhN3BFOHV3PT0.jpeg?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg" width="180" /> | <img src="http://imglf6.nosdn0.126.net/img/eCsxeXUwR1dBeGVpcXBRdVlkRko5cXdsbXQzZ1prWFpFNG1nVzhEcTc2T2ZaQzJWeVhsUHNRPT0.jpeg?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg" width="180" /> | <img src="http://imglf4.nosdn0.126.net/img/eCsxeXUwR1dBeGVpcXBRdVlkRko5cjEzbStSbFRZSko1MVZvMTk5cTJLR1UvWWh1ZXlVQkJnPT0.jpeg?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg" width="180" /> | <img src="http://imglf5.nosdn0.126.net/img/eCsxeXUwR1dBeGZWRXM5Z0NjSUJzTVJnbHNsYWUvbzBwaW5LSGZhcGJ4SnhDVXV5aFMwbXBnPT0.jpeg?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg" width="180" /> |
