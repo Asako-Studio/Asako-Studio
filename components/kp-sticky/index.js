@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/kp-sticky/index"],{a7fc:function(t,e,n){"use strict";n.r(e);var i=n("d9b6"),u=n("df5e");for(var o in u)"default"!==o&&function(t){n.d(e,t,(function(){return u[t]}))}(o);n("a872");var r,c=n("f0c5"),a=Object(c["a"])(u["default"],i["b"],i["c"],!1,null,"78943278",null,!1,i["a"],r);e["default"]=a.exports},b194:function(t,e,n){"use strict";(function(t){Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var n={name:"KpSticky",props:{scrollTop:{type:Number},stickyTop:{type:[Number,String],default:0},stickyHeight:{type:String,default:"auto"},bgColor:{type:String,default:"none"},index:{type:[Number,String],default:0}},watch:{scrollTop:function(t,e){this.updateStickyChange()}},onReady:function(){this.updateScrollChange()},data:function(){return{prefixCls:"k-sticky",timer:null,top:0,height:0,isFixed:!1}},methods:{updateStickyChange:function(){var t=this.stickyTop;this.isFixed=this.scrollTop+t>=this.top},updateScrollChange:function(){var e=this;this.timer&&(clearTimeout(this.timer),this.timer=null),this.timer=setTimeout((function(){var n=".k-sticky-class",i=t.createSelectorQuery().in(e);i.select(n).boundingClientRect((function(t){t&&(e.top=t.top+(e.scrollTop||0),e.height=t.height,e.$emit("change",{index:Number(e.index),top:e.top}))})).exec()}),0)}}};e.default=n}).call(this,n("543d")["default"])},d9b6:function(t,e,n){"use strict";var i,u=function(){var t=this,e=t.$createElement;t._self._c},o=[];n.d(e,"b",(function(){return u})),n.d(e,"c",(function(){return o})),n.d(e,"a",(function(){return i}))},df5e:function(t,e,n){"use strict";n.r(e);var i=n("b194"),u=n.n(i);for(var o in i)"default"!==o&&function(t){n.d(e,t,(function(){return i[t]}))}(o);e["default"]=u.a}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/kp-sticky/index-create-component',
+    {
+        'components/kp-sticky/index-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("a7fc"))
+        })
+    },
+    [['components/kp-sticky/index-create-component']]
+]);

@@ -1,0 +1,11 @@
+{
+  "disableScroll": true,
+  "backgroundColor": "#11121c",
+  "backgroundColorBottom": "#11121c",
+  "usingComponents": {
+    "kp-navbar": "/components/kp-navbar/index",
+    "kp-button": "/components/kp-button/index",
+    "kp-spin": "/components/kp-spin/index",
+    "kp-actionsheet": "/components/kp-actionsheet/index"
+  }
+}

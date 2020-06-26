@@ -1,0 +1,1 @@
+<view class="k-sticky-class data-v-78943278"><view class="{{['data-v-78943278',isFixed&&prefixCls+'-fixed']}}" style="{{'top:'+(isFixed?stickyTop+'px':'auto')+';'+('height:'+(isFixed?stickyHeight+'px':stickyHeight)+';')+('background:'+(bgColor)+';')}}"><slot name="header"></slot></view><slot name="content"></slot></view>

@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/kp-mask/index"],{"32e2":function(e,t,n){"use strict";n.r(t);var o=n("cd63"),a=n("8bfe");for(var i in a)"default"!==i&&function(e){n.d(t,e,(function(){return a[e]}))}(i);n("3234");var u,c=n("f0c5"),l=Object(c["a"])(a["default"],o["b"],o["c"],!1,null,"0d0439ca",null,!1,o["a"],u);t["default"]=l.exports},"7eaf":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var o=function(){Promise.all([n.e("common/vendor"),n.e("components/kp-icon/index")]).then(function(){return resolve(n("dd5e"))}.bind(null,n)).catch(n.oe)},a={name:"KpMask",components:{KpIcon:o},props:{value:{type:Boolean,default:!1},opacity:{type:[String,Number],default:.6},position:{type:String,validator:function(e){return["center","top","bottom"].includes(e)},default:"center"},locked:{type:Boolean,default:!1},closeIconShow:{type:Boolean,default:!0},closeIconSize:{type:[Number,String],default:70},animationIn:{type:Boolean,default:!0},animationCancel:{type:Boolean,default:!1}},data:function(){return{prefixCls:"k-mask",animationOut:!1}},methods:{handleClickMask:function(){this.$emit("clickMask",!1),!this.locked&&this.value&&this.handleCloseMask()},handleCloseMask:function(){var e=this;this.animationOut=!0,setTimeout((function(){e.animationOut=!1,e.$emit("close",!1)}),300)}}};t.default=a},"8bfe":function(e,t,n){"use strict";n.r(t);var o=n("7eaf"),a=n.n(o);for(var i in o)"default"!==i&&function(e){n.d(t,e,(function(){return o[e]}))}(i);t["default"]=a.a},cd63:function(e,t,n){"use strict";var o,a=function(){var e=this,t=e.$createElement;e._self._c},i=[];n.d(t,"b",(function(){return a})),n.d(t,"c",(function(){return i})),n.d(t,"a",(function(){return o}))}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/kp-mask/index-create-component',
+    {
+        'components/kp-mask/index-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("32e2"))
+        })
+    },
+    [['components/kp-mask/index-create-component']]
+]);

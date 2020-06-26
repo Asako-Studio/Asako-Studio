@@ -1,0 +1,14 @@
+{
+  "usingComponents": {
+    "kp-navbar": "/components/kp-navbar/index",
+    "kp-avatar": "/components/kp-avatar/index",
+    "kp-sticky": "/components/kp-sticky/index",
+    "kp-swiper": "/components/kp-swiper/index",
+    "kp-icon": "/components/kp-icon/index",
+    "kp-tag": "/components/kp-tag/index",
+    "kp-badge": "/components/kp-badge/index",
+    "kp-author": "/components/kp-author/index",
+    "kp-spin": "/components/kp-spin/index",
+    "kp-actionsheet": "/components/kp-actionsheet/index"
+  }
+}

@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/kp-avatar/index"],{"2ceb":function(t,e,n){"use strict";n.r(e);var r=n("d933"),i=n.n(r);for(var a in r)"default"!==a&&function(t){n.d(e,t,(function(){return r[t]}))}(a);e["default"]=i.a},d933:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var r=n("c509"),i=function(){Promise.all([n.e("common/vendor"),n.e("components/kp-icon/index")]).then(function(){return resolve(n("dd5e"))}.bind(null,n)).catch(n.oe)},a="k-avatar",u={name:"KpAvatar",components:{KpIcon:i},props:{shape:{validator:function(t){return["circle","square"].includes(t)},default:"circle"},size:{type:[String,Number],default:"default"},image:String,icon:String,iconSize:{type:[Number,String],default:28},avatarBg:String,avatarGradient:String,mode:{type:String,default:"widthFix"}},data:function(){return{prefixCls:a}},computed:{avatarSize:function(){return(0,r.isNumber)(Number(this.size))&&"".concat(Number(this.size),"rpx")}},methods:{handleBoxClick:function(t){this.$emit("on-click",t)},handleImgError:function(t){this.$emit("on-error",t)}}};e.default=u},f3bc:function(t,e,n){"use strict";n.r(e);var r=n("f60f"),i=n("2ceb");for(var a in i)"default"!==a&&function(t){n.d(e,t,(function(){return i[t]}))}(a);n("7a17");var u,c=n("f0c5"),o=Object(c["a"])(i["default"],r["b"],r["c"],!1,null,"7487e146",null,!1,r["a"],u);e["default"]=o.exports},f60f:function(t,e,n){"use strict";var r,i=function(){var t=this,e=t.$createElement;t._self._c},a=[];n.d(e,"b",(function(){return i})),n.d(e,"c",(function(){return a})),n.d(e,"a",(function(){return r}))}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/kp-avatar/index-create-component',
+    {
+        'components/kp-avatar/index-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("f3bc"))
+        })
+    },
+    [['components/kp-avatar/index-create-component']]
+]);
