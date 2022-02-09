@@ -1,5 +1,23 @@
 # Asako-Studio
-浅子文化小程序主站，一个致力于视觉影像与工程研究的实验室、工作室
-| Miniprogram  | Home | Creative | Works | About |
-| - | - | - | - | - |
-| <img src="http://imglf5.nosdn0.126.net/img/eCsxeXUwR1dBeGU1UlRYV2liZmI2NXQ3WmpvbmxORk85Uk1oVFppSDFJcHlmYWlLUVd5ajdnPT0.jpg?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg" width="180" /> | <img src="http://imglf5.nosdn0.126.net/img/eCsxeXUwR1dBeGVpcXBRdVlkRko5cUJtQnRIbXFaaDZLV3dNY3FENGtyaWtmTDFhN3BFOHV3PT0.jpeg?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg" width="180" /> | <img src="http://imglf6.nosdn0.126.net/img/eCsxeXUwR1dBeGVpcXBRdVlkRko5cXdsbXQzZ1prWFpFNG1nVzhEcTc2T2ZaQzJWeVhsUHNRPT0.jpeg?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg" width="180" /> | <img src="http://imglf4.nosdn0.126.net/img/eCsxeXUwR1dBeGVpcXBRdVlkRko5cjEzbStSbFRZSko1MVZvMTk5cTJLR1UvWWh1ZXlVQkJnPT0.jpeg?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg" width="180" /> | <img src="http://imglf5.nosdn0.126.net/img/eCsxeXUwR1dBeGZWRXM5Z0NjSUJzTVJnbHNsYWUvbzBwaW5LSGZhcGJ4SnhDVXV5aFMwbXBnPT0.jpeg?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg" width="180" /> |
+
+一个致力于视觉影像与工程研究的实验室、工作室等
+
+<p align='center'>
+  <img src="https://asako-studio-1251838073.file.myqcloud.com/miniprogram/static/images/967d9727ly1gcer72tttfj20dt0okq5g.jpg" width='480' />
+</p>
+
+<p align='center'>
+  <img src="https://asako-studio-1251838073.file.myqcloud.com/miniprogram/static/images/967d9727ly1gqzgoh2y8ej20yi483k8u.jpg" width='480' />
+</p>
+
+<p align='center'>
+  <img src="https://asako-studio-1251838073.file.myqcloud.com/miniprogram/static/images/967d9727ly1gqzgohuhsij20yi49cwtn.jpg" width='480' />
+</p>
+
+<p align='center'>
+  <img src="https://asako-studio-1251838073.file.myqcloud.com/miniprogram/static/images/967d9727ly1gqzgoiyq7ij20yi38i4e4.jpg" width='480' />
+</p>
+
+<p align='center'>
+  <img src="https://asako-studio-1251838073.file.myqcloud.com/miniprogram/static/images/967d9727ly1gqzgojj1y7j20yi4bc7i4.jpg" width='480' />
+</p>
